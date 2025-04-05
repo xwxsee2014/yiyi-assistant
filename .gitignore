@@ -12,3 +12,21 @@ modern.jsonp
 resources/sass/.sass-cache/
 resources/.arch-internal-preview.css
 .arch-internal-preview.css
+node_modules/
+package-lock.json
+package.json
+
+# Electron specific
+.DS_Store
+dist/
+electron-download/
+*.log
+.env
+
+# Editor directories and files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
